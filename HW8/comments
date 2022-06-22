@@ -4,4 +4,4 @@ $ docker-compose up -d
 # To Tear Down
 $ docker-compose down --volumes
 
-To complete the installation of wordpress and test the site go to the localhost in your web browser
+To complete the installation of wordpress and test the site go to the localhost:8000 in your web browser
